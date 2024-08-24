@@ -81,7 +81,7 @@ Welcome to **BINGE+**, your ultimate destination for streaming and downloading m
 1. **Clone the Repository:**
 
    ```bash
-   git clone <<url>>
+   git clone (https://github.com/Satyamkumarjha4/moviesbinge.git)
 
 ## Usage
 
